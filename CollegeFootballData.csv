@@ -1,0 +1,108 @@
+Rank,School,State,City,Win Rate,Conference
+1,Texas,Texas,Austin,64%,Big 12
+2,Georgia,Georgia,Athens,89%,SEC
+3,Michigan,Michigan,Ann Arbor,79%,Big Ten
+4,Oklahoma,Oklahoma,Norman,79%,Big 12
+5,Alabama,Alabama,Tuscaloosa,90%,SEC
+6,Ohio State,Ohio ,Columbus,90%,Big Ten
+7,Auburn,Alabama,Auburn,54%,SEC
+8,Penn State,Pennsylvania,University Park,71%,Big Ten
+9,Tennessee,Tennessee,Knoxville,57%,SEC
+10,Nebraska,Nebraska,Lincoln,37%,Big Ten
+11,Michigan State,Michigan ,East Lansing,52%,Big Ten
+12,Florida,Florida,Gainesville,65%,SEC
+13,LSU,Louisiana,Baton Rouge,71%,SEC
+14,Wisconsin,Wisconsin,Madison,64%,Big Ten
+15,Washington,Washington,Seattle,68%,Pac-12
+16,Iowa,Iowa,Iowa City,71%,Big Ten
+17,Texas A&M,Texas,College Station,64%,SEC
+18,Arkansas,Arkansas,Fayetteville,37%,SEC
+19,Oregon,Oregon,Eugene,75%,Pac-12
+20,Florida State,Florida,Tallahassee,55%,ACC
+21,Utah,Utah,Salt Lake City,72%,Pac-12
+22,Minnesota,Minnesota,Minneapolis,65%,Big Ten
+23,Ole Miss,Mississippi,Oxford,57%,SEC
+24,Clemson,South Carolina,Clemson,84%,ACC
+25,Kansas State,Kansas,Manhattan,58%,Big 12
+26,Purdue,Indiana,West Lafayette,48%,Big Ten
+27,South Carolina,South Carolina,Columbia,44%,SEC
+28,Illinois,Illinois,Urbana–Champaign,42%,Big Ten
+29,Arizona State,Arizona,Tempe,47%,Pac-12
+30,Texas Tech,Texas,Lubbock,46%,Big 12
+31,Indiana,Indiana,Bloomington,42%,Big Ten
+32,Louisville,Kentucky,Louisville,49.30%,ACC
+33,North Carolina,North Carolina,Chapel Hill,54%,ACC
+34,Iowa State,Iowa,Ames,56%,Big 12
+35,NC State,North Carolina,Raleigh,61%,ACC
+36,Maryland,Maryland,College Park,48%,Big Ten
+37,West Virginia,West Virginia,Morgantown,52%,Big 12
+38,Oklahoma State,Oklahoma,Stillwater,66%,Big 12
+39,Kentucky,Kentucky,Lexington,64%,SEC
+40,Virginia Tech,Virginia,Blacksburg,46%,ACC
+41,Colorado,Colorado,Boulder,38%,Pac-12
+42,Virginia,Virginia,Charlottesville,50%,ACC
+43,Arizona,Arizona,Tucson,32%,Pac-12
+44,Washington State,Washington,Pullman,57%,Pac-12
+45,Georgia Tech,Georgia,Atlanta,36%,ACC
+46,California,California,Berkeley,46%,Pac-12
+47,Missouri,Missouri,Columbia,55.10%,SEC
+48,UCLA,California,Los Angeles,51%,Pac-12
+49,Mississippi State,Mississippi,Starkville,54%,SEC
+50,Kansas,Kansas,Lawrence,29%,Big 12
+51,Oregon State,Oregon,Corvallis,50.00%,Pac-12
+52,Boise State,Idaho,Boise,70%,Mountain West
+53,UCF,Florida,Orlando,70%,American
+54,Cincinnati,Ohio,Cincinnati,78%,American
+55,Rutgers,New Jersey,Piscataway,32%,Big Ten
+56,Colorado State,Colorado,Fort Collins,29%,Mountain West
+57,Fresno State,California,Fresno,68%,Mountain West
+58,UNLV,Nevada,Las Vegas[n 7],34%,Mountain West
+59,Wyoming,Wyoming,Laramie,55%,Mountain West
+60,South Florida,Florida,Tampa,29%,American
+61,Nevada,Nevada,Reno,49%,Mountain West
+62,Arkansas State,Arkansas,Jonesboro,41%,Sun Belt
+63,App State,North Carolina,Boone,72%,Sun Belt
+64,Utah State,Utah,Logan,58%,Mountain West
+65,UTSA,Texas,San Antonio,58%,C-USA
+66,San Diego State,California,San Diego,62%,Mountain West
+67,Kent State,Ohio,Kent,40%,MAC
+68,Marshall,West Virginia,Huntington,64%,Sun Belt
+69,Old Dominion,Virginia,Norfolk,32%,Sun Belt
+70,Memphis,Tennessee,Memphis,65%,American
+71,East Carolina,North Carolina,Greenville,40%,Sun Belt
+72,FAU,Florida,Boca Raton,52%,C-USA
+73,UTEP,Texas,El Paso,30%,C-USA
+74,Louisiana,Louisiana,Lafayette,70%,Sun Belt
+75,Hawaii,Hawaii,Honolulu,47%,Mountain West
+76,Louisiana Tech,Louisiana,Ruston,46%,C-USA
+77,Houston,Texas,Houston,57%,American
+78,Central Michigan,Michigan,Mount Pleasant,53%,MAC
+79,Georgia Southern,Georgia,Statesboro,55%,Sun Belt
+80,South Alabama,Alabama,Mobile,42%,Sun Belt
+81,New Mexico State,New Mexico,Las Cruces,35%,Independent
+82,Western Kentucky,Kentucky,Bowling Green,53%,C-USA
+83,Massachusetts,Massachusetts,Amherst[n 5],13%,Independent
+84,Connecticut,Connecticut,Storrs,20%,Independent
+85,Middle Tennessee,Tennessee,Murfreesboro,46%,C-USA
+86,Western Michigan,Michigan,Kalamazoo,51%,MAC
+87,"Louisiana, Monroe",Louisiana,Monroe,32%,Sun Belt
+88,Charlotte,North Carolina,Charlotte,39%,C-USA
+89,Akron,Ohio,Akron,16%,MAC
+90,Bowling Green,Ohio,Bowling Green,32.30%,MAC
+91,Troy,Alabama,Troy,61%,Sun Belt
+92,FIU,Florida,Miami,38%,C-USA
+93,Southern Mississippi,Mississippi,Hattiesburg,41%,Sun Belt
+94,James Madison,Virginia,Harrisonburg,75%,Sun Belt
+95,Toledo,Ohio,Toledo,61%,MAC
+96,Buffalo,New York,Buffalo,57%,MAC
+97,North Texas,Texas,Denton,48%,C-USA
+98,Miami (Ohio),Ohio,Oxford,56%,MAC
+99,Texas State,Texas,San Marcos,31%,Sun Belt
+100,Ohio,Ohio,Athens,59%,MAC
+101,San Jose State,California,San Jose,44%,Mountain West
+102,Eastern Michigan,Michigan,Ypsilanti,53%,MAC
+103,Ball State,Indiana,Muncie,45%,MAC
+104,Northern Illinois,Illinois,DeKalb,44%,MAC
+105,Georgia State,Georgia,Atlanta,49%,Sun Belt
+106,Coastal Carolina,South Carolina,Conway,65.20%,Sun Belt
+107,New Mexico,New Mexico,Albuquerque,24%,Mountain West
